@@ -1,0 +1,11 @@
+.DS_Store
+.Rapp.history
+.gitignore.swp
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.RData
+*.txt
+*.r
+
